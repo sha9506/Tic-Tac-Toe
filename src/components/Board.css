@@ -1,0 +1,9 @@
+.row
+{
+  height: 100px;
+  width: 300px;
+  margin-top: 2px;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
